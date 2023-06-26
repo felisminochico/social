@@ -48,5 +48,5 @@ section#caixa-2 img{
 section#caixa-2 > a > img:hover{
     box-shadow: 4px 4px 2px 2px rgba(0, 0, 0, 0.26);
     transform: translate(-5px, -5px);
-    transition: transform .5s, box-shadow .5s;
+    transition: transform .3s, box-shadow .5s;
 }
